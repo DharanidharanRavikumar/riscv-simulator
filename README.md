@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-learning%20project-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-A small RISC-V instruction set simulator, written from scratch while learning
+A basic RISC-V instruction set simulator, written from scratch while learning
 the RISC-V ISA. It fetches, decodes (using the same match/mask technique as
 the official [Spike](https://github.com/riscv-software-src/riscv-isa-sim)
 simulator), and executes real RISC-V machine code, one instruction at a time.
