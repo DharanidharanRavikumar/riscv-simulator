@@ -1,0 +1,12 @@
+# Compiled binaries and executables
+*.bin
+*.elf
+*.o
+*.out
+main
+sim
+
+# IDE and System files
+.vscode/
+.DS_Store
+Thumbs.db
