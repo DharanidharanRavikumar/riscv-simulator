@@ -2,11 +2,10 @@
 
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![ISA](https://img.shields.io/badge/ISA-RV32I-informational)
-![Status](https://img.shields.io/badge/status-learning%20project-yellow)
+![Status](https://img.shields.io/badge/status-Experimental%20project-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-A basic RISC-V instruction set simulator, written from scratch while learning
-the RISC-V ISA. It fetches, decodes (using the same match/mask technique as
+A from-scratch RV32I instruction-set simulator written in C, It fetches, decodes (using the same match/mask technique as
 the official [Spike](https://github.com/riscv-software-src/riscv-isa-sim)
 simulator), and executes real RISC-V machine code, one instruction at a time.
 
